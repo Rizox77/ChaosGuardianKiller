@@ -39,7 +39,7 @@ function chaos.takeShards(cx,cz) -- breaking the chaos shards, you need to kill 
 	move.rotateTo(east)
 	robot.swing(sides.front)
 	move.To(cx*distToChaos-1,1,cz*distToChaos)
-	os.sleep(42)
+	os.sleep(41)
 
 end
 
